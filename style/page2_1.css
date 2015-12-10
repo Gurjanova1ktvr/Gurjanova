@@ -1,0 +1,44 @@
+body{
+
+}
+.pic{
+	display: inline;
+	float: left;
+}
+.photo {
+	border: 1px solid #234;
+	background: #d9dabb; /* Цвет фона */
+	width: 1500px; /* Ширина */
+	margin: 0 10px 10px 0; /* Отступы */
+	padding: 10px 0; /* Поля сверху и снизу */
+	text-align: center; /* Выравнивание по центру */
+	display: inline-block; /* Строчно-блочный элемент */
+ }
+.photo img {
+	border: 2px solid #8b8e4b; /* Параметры рамки */
+}
+.photo p {
+	margin: 0; /* Отступы */
+}
+.caption{
+	width:900px;
+	background: #ddd;
+
+	margin: 10px 10px 10px 10px;
+	font: 2em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	color: blue;
+}
+.caption1{
+	width:900px;
+	background: #ddd;
+	margin: 10px 10px 10px 10px ;
+	font: 1em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	color: red;
+}
+.caption2{
+	width:900px;
+	background: #ddd;
+	margin: 10px 10px 10px 10px;
+	font: 1em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	color: black;
+}
