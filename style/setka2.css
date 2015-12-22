@@ -4,7 +4,7 @@
   box-sizing: border-box; }
 
 body {
-  font: 1em 'PT Sans', Free Chancery, Arial, Helvetica, sans-serif;
+  font: 1em 'PT Sans', Arial, Helvetica, sans-serif;
   background: url(http://subtlepatterns.com/patterns/grid.png);
   color: blue; }
 
@@ -14,10 +14,17 @@ body {
   border: 0px solid #000;
 }
 
+#menu ul li {display: inline;}
+#menu ul {border-bottom:1px solid #000000; margin-left:0; padding:3px 0;}
+#menu ul li a {text-decoration:none; margin-left:3px; border:1px solid #000000; padding: 3px 4px; border-bottom:0; background:#CEDEFF;}
+#menu ul li a:link {color:#493;}
+#menu ul li a:visited {color:#647;}
+#menu ul li a:hover {color:#000;background:#6699FF;border-color:#227}
+#menu ul li a#nowopen {background:#fff; border-bottom: 1px solid #fff;}
 /* CSS GREED
 ===============================*/
 .row {
-  margin-bottom: 20px; }
+  margin-bottom: 1px; }
 
 .row:after {
   display: block;

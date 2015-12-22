@@ -1,5 +1,5 @@
 .header {
-  margin-top: 20px; }
+  margin-top: 1px; }
 
 .header h1 {
   font: 3em 'PT Sans', Algerian, Free Chancery, Arial, Helvetica, sans-serif;
@@ -21,8 +21,8 @@
 
 #slider {
   border: 0px solid #000;
-  margin: 0 auto;
-  width: 800px;
+  margin: 0px auto;
+  width: 940px;
   height: 250px;}
 
 #slider {
@@ -32,7 +32,7 @@
 
 .welcome{
   font: 1.5em 'PT Sans', Algerian, Free Chancery, Arial, Helvetica, sans-serif;
-  color: red;
+  color: blue;
 	text-align: center;}
   
 .thumb img {
@@ -64,14 +64,14 @@
   background: #aaa; }
 
 .content {
-  font: 1.2em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+  font: 1em 'PT Sans', Arial, Helvetica, sans-serif;
   padding: 1px 1px;
   margin-bottom: 80px;
   color: #333; }
 
 .footer {
-   font: 1.2em 'PT Sans', Algerian, Free Chancery, Arial, Helvetica, sans-serif;
+   font: 1em 'PT Sans', Arial, Helvetica, sans-serif;
   color: blue;
   text-align: center;
-  border-top: 0px dashed #888;
-  padding: 40px 0; }
+  border-top: 2px dashed #888;
+  padding: 20px 20px; }

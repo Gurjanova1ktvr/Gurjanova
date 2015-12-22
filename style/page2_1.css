@@ -24,21 +24,51 @@ body{
 	width:900px;
 	background: #ddd;
 
-	margin: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 525px;
 	font: 2em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
 	color: blue;
+}
+.caption11{
+	width:900px;
+	background: #ddd;
+
+	margin: 10px 10px 10px 225px;
+	font: 2em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	color: blue;
+}
+.caption12{
+	width:900px;
+	background: #ddd;
+
+	margin: 10px 10px 10px 225px;
+	font: 1em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	color: red;
 }
 .caption1{
 	width:900px;
 	background: #ddd;
-	margin: 10px 10px 10px 10px ;
+	margin: 10px 10px 10px 520px ;
 	font: 1em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
 	color: red;
 }
 .caption2{
 	width:900px;
 	background: #ddd;
-	margin: 10px 10px 10px 10px;
-	font: 1em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	margin: 10px 10px 10px 225px;
+	font: 1em 'PT Sans', Arial, Helvetica, sans-serif;
 	color: black;
 }
+.caption3{
+	width:900px;
+	background: #ddd;
+	margin: 10px 10px 10px 525px;
+	font: 1em 'PT Sans', Arial, Helvetica, sans-serif;
+	color: black;
+}
+.caption13{
+	width:900px;
+	background: #ddd;
+	margin: 10px 10px 10px 520px ;
+	font: 1em 'PT Sans', Monotype Corsiva, Free Chancery, Arial, Helvetica, sans-serif;
+	color: blue;
+}	
